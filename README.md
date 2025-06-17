@@ -94,15 +94,6 @@ Run the project with:
 npm start
 ```
 
-### 🧪 Testing
-
-Game-info uses a modern test framework. Run the test suite with:
-
-**Using npm:**
-
-```bash
-npm test
-```
 
 ### ⭐ Show your support
 
