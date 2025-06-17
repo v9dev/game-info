@@ -93,7 +93,7 @@ Run the project with:
 ```bash
 npm start
 ```
-
+![Image](https://github.com/user-attachments/assets/76146e00-309b-40a6-ad7e-23f0062bd958)
 
 ### ⭐ Show your support
 
