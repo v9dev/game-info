@@ -36,11 +36,11 @@
 
 ## 🔍 Overview
 
-**Game-info** is a ,Game library dynamic, visually appealing gaming interfaces using React, TypeScript, and Vite. It offers a modular architecture with reusable components, custom hooks for efficient data fetching, and seamless integration with the RAWG game database. The project emphasizes maintainability, performance, and a cohesive user experience through Chakra UI's theming and dark mode support.
+**Game-info** is a a dynamic and visually appealing game library built using React, TypeScript, and Vite. It showcases modern development practices with a modular architecture, reusable components, and custom hooks for efficient data fetching. The app integrates seamlessly with the RAWG game database and emphasizes performance, maintainability, and a cohesive user experience through Chakra UI, including full dark mode support.
 
 ### 🌟 Why game-info?
 
-This project empowers developers to craft engaging, data-rich gaming platforms with ease. The core features include:
+This project empowers developers to build engaging, data-rich gaming platforms effortlessly. Key features include:
 
 - 🧩 **Modular Components:** Reusable UI elements that promote consistency and rapid development
 - ⚡ **Fast Development Setup:** React + TypeScript + Vite for optimized build times and hot module replacement
